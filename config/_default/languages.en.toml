@@ -1,0 +1,25 @@
+disabled = false
+languageCode = "zh-cn"
+languageName = "Simplified Chinese (China)"
+weight = 1
+title = "遇见のBlog"
+
+[params]
+  displayName = "简体中文"
+  isoCode = "cn"
+  rtl = false
+  dateFormat = "2 January 2006"
+  logo = "img/site_logo.png"
+  description = "meet's website"
+  # copyright = "Copy, _right?_ :thinking_face:"
+
+[params.author]
+  name = "遇见"
+#   email = "youremail@example.com"
+  image = "img/avatar.png"
+  imageQuality = 96
+  headline = "所有的为时已晚，其实是恰逢其时。"
+  bio = "All that is too late is actually just the right time."
+links = [
+  { email = "239485358@qq.com" }
+]
