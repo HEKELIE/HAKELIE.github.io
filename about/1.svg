@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Created with Vectornator (http://vectornator.io/) -->
+<svg height="28.0pt" stroke-miterlimit="10" style="fill-rule:nonzero;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;" version="1.1" viewBox="0 0 276.25 28" width="276.25pt" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:vectornator="http://vectornator.io" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs/>
+<g id="无标题" vectornator:layerName="无标题">
+<g opacity="1" vectornator:layerName="g">
+<path d="M0 0L71 0L71 0L71 28L71 28L0 28L0 28L0 0L0 0Z" fill="#555555" fill-rule="nonzero" opacity="1" stroke="none" vectornator:layerName="rect"/>
+<path d="M71 0L276.25 0L276.25 0L276.25 28L276.25 28L71 28L71 28L71 0L71 0Z" fill="#ea4335" fill-rule="nonzero" opacity="1" stroke="none" vectornator:layerName="rect"/>
+</g>
+<g opacity="1" vectornator:layerName="g">
+<text fill="#ffffff" font-family="Verdana-Bold" font-size="10" opacity="1" stroke="none" text-anchor="start" transform="matrix(1 0 0 1 31.4756 7.44629)" vectornator:layerName="text" vectornator:width="29.0723" x="0" y="0">
+<tspan textLength="29.0723" x="0" y="10"><![CDATA[MAIL]]></tspan>
+</text>
+<text fill="#ffffff" font-family="Verdana-Bold" font-size="10" opacity="1" stroke="none" text-anchor="start" transform="matrix(1 0 0 1 113.725 7.44629)" vectornator:layerName="text" vectornator:width="131.689" x="0" y="0">
+<tspan textLength="131.689" x="0" y="10"><![CDATA[meet.test.x@gmail.com]]></tspan>
+</text>
+</g>
+</g>
+</svg>
